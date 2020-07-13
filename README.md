@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Valentina and I'm currently working on trying to figure out what I want to work on.
+💬 Ask me about ...
+📫 How to reach me: ...
 
 <!--
 **valntinaf/valntinaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
